@@ -1,15 +1,15 @@
 # jemdoc: menu{MENU}{speaker-name.html}
 = Sandeep Pradhan (University of Michigan)
 
-Add date here
+ 1:00pm - 2:00pm PT Friday, October 11, 2024
 
 == Title and Abstract
 
-*Add title here*\n
+*Quantum Bayesian Framework for Efficient Storage of Quantum Information*\n
 \n
 
-Add abstract here
+Superposition, entanglement and nonlocality are the hallmarks of the quantum framework. In this talk, we consider the problem of reliable storage of quantum information with qubit rate below its von Neumann entropy with controlled loss. This requires a transformation of the quantum source state into a more entangled reconstruction state with smaller entropy. Inspired by the duality connections between the data compression  and data transmission problems in the classical setting, we propose a new formulation for the lossy quantum data compression problem. This formulation differs from the existing quantum rate-distortion theory in two aspects. Firstly, we require that the reconstruction of the compressed quantum source fulfill a nonlocal (global) error constraint as opposed to the sample-wise local entanglement fidelity criterion used in the standard rate-distortion setting. Secondly, to measure the reconstruction error, instead of a distortion observable, we employ the notion of a backward quantum channel which we refer to as a  `posterior reference map'. This is analogous to the posterior probability studied in  the classical Bayesian framework. This leads to a novel quantum Bayesian perspective for lossy representation of quantum information. Using these concepts, we design a quantum coding scheme consisting of an encoder and a decoder that transforms the source state into an entangled reconstruction state efficiently. We   characterize the optimum performance in terms of single-letter coherent information of the given posterior reference map. It turns out that this leads to a new problem formulation even  in the classical setting. We also look at this problem, and characterize the optimum  performance  in terms of single-letter mutual information quantities with respect to appropriately defined channels analogous to the posterior reference map. We also provide several  examples for the formulations.
 
 == Bio
 
-Add bio here
+S. Sandeep Pradhan received his Ph.D degree from the Electrical Engineering and Computer Science(EECS) department of the  University of California at Berkeley in 2001. He has been a member of faculty in the department of EECS at the University of Michigan since 2002. His research interests include classical and quantum information processing. He is a Fellow of IEEE.

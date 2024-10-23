@@ -6,32 +6,27 @@ The BLISS seminar (formerly [http://www-networking.eecs.berkeley.edu/Seminar/ NC
 #is co-sponsored by generous grants from [https://www.microsoft.com/en-us/research/ Microsoft Research] and [www.qualcomm.com Qualcomm], and 
 is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory for Information and System Sciences]. Talks at the seminar cover topics including but not limited to information and coding theory, signal processing, optimization, statistics, and control. The list of talks for the current semester can be found below, and past seminars from 2016 onwards are listed [past.html here]. For an archive of all talks from 1996-2015, visit the [http://www-networking.eecs.berkeley.edu/Seminar/ old webpage.]
 
-A calendar of all the talks is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
 ~~~
-*Fall 2023* \n
-Regular seminar time: *Fridays 2 PM - 3 PM PT* \n
+*Fall 2024* \n
+Regular seminar time: *Fridays 1 PM - 2 PM PT* \n
 Regular seminar venue: *Hughes Room, 400 Cory Hall, Berkeley*
 subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for more details. \n
 
-To give a talk at the seminar, contact [https://people.eecs.berkeley.edu/~nived.rajaraman Nived Rajaraman] or [http://www.eecs.berkeley.edu/~courtade Tom Courtade].
+To give a talk at the seminar, contact [https://people.eecs.berkeley.edu/~mert_cemri Mert Cemri] or [http://www.eecs.berkeley.edu/~courtade Tom Courtade].
 ~~~
 
 
 == Fall 2024 Schedule
 
-Recordings of the talks are available [https://berkeley.box.com/v/bliss-seminar-f2023 here].
+# Recordings of the talks are available [https://berkeley.box.com/v/bliss-seminar-f2023 here].
 
 Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
-Oct 13 | Jesse Wang | King of the court | [./fa23/alireza.html details] ||
-Oct 20 | Surbhi Goel (U Penn) | Beyond Worst-case Sequential Prediction: Adversarial Robustness via Abstention | [./fa23/surbhi.html details] ||
-*2-3pm PT, Oct 26* | Chiwei Yan (UC Berkeley IEOR) | Incentive-aware Dynamic Matching Problems | [./fa23/chiwei.html details] ||
-Nov 3 | Jingyan Wang (Georgia Tech) | Modeling and Correcting Bias in Sequential Evaluation | [./fa23/jingyan.html details] ||
-Nov 10 | Aryan Mokhtari (UT Austin) | Online Learning Guided Quasi-Newton Methods: Improved Global Non-asymptotic Guarantees | [./fa23/aryan.html details] ||
-Nov 17 | Gaurav Mahajan (Yale) |  | [./fa23/gaurav.html details] ||
-Nov 24 | Thanksgiving break | - | - ||
-Dec 1 | Jason Altschuler (University of Pennsylvania) |  | [./fa23/jason.html details] ||
+Oct 11 | Sandeep Pradhan | Quantum Bayesian Framework for Efficient Storage of Quantum Information | [./fa24/sandeep_pradhan.html details] ||
+Oct 24 | Minghua Chen (City University of Hong Kong) | Machine Learning for Real-Time Constrained Optimization: The Case of Optimal Power Flow and Beyond | [./fa24/minghua_chen.html details] ||
+Oct 25 | Varun Jog (University of Cambridge) | Modeling and Correcting Bias in Sequential Evaluation | [./fa23/varun_jog.html details] ||
+Nov 1 | Yusu Wang (UC San Diego) | TBA | [./fa24/yusu_wang.html details] ||
 ~~~
 

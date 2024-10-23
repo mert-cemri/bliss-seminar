@@ -13,3 +13,5 @@ Add abstract here
 == Bio
 
 Add bio here
+
+# rsync -av /home/mert/personal/bliss-seminar/ -e ssh mert_cemri@login.eecs.berkeley.edu:/home/eecs/jiantao/public_html/bliss
