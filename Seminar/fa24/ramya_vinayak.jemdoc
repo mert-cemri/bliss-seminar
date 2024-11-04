@@ -22,11 +22,17 @@ or outperforms state-of-the-art methods on both text-to-text and text-to-image t
 fewer parameters in practice. I will also present theoretical results on per user sample complexity
 for generalization and fundamental limitations when there are limited pairwise comparisons.
 Based on work with Daiwei Chen, Yi Chen, Aniket Rege, Zhi Wang, Geelon So, Greg Canal, Blake
-Mason, Gokcan Tatli, and Rob Nowak. References:
+Mason, Gokcan Tatli, and Rob Nowak. 
+
+References:
+
 1. PAL: Pluralistic Alignment Framework for learning from heterogeneous preferences (preprint,
 2024)
+
 2. One-for-all: Simultaneous metric and preference learning (NeurIPS 2022)
+
 3. Metric learning via limited pairwise comparisons (UAI 2024), and
+
 4. Learning Populations of Preferences via pairwise comparisons (AISTATS 2024).
 
 == Bio
