@@ -1,0 +1,25 @@
+# jemdoc: menu{/home/mert/personal/bliss-seminar/Seminar/MENU}{index.html}
+= Han Zhao (UIUC)
+
+1:00pm - 2:00pm PT Friday, November 15, 2024
+
+== Title and Abstract
+
+*Revisiting Scalarization in Multi-Task Learning*\n
+\n
+
+Linear scalarization, i.e., combining all loss functions by a weighted sum, has been the default choice in the literature of multi-task learning (MTL) since its inception. In recent years, there has been a surge of interest in developing Specialized Multi-Task Optimizers (SMTOs) that treat MTL as a multi-objective optimization problem. However, it remains open whether there is a fundamental advantage of SMTOs over scalarization. In fact, heated debates exist in the community comparing these two types of algorithms, mostly from an empirical perspective. In this talk, I will revisit scalarization from a theoretical perspective. I will be focusing on linear MTL models and studying whether scalarization is capable of fully exploring the Pareto front. Our findings reveal that, in contrast to recent works that claimed empirical advantages of scalarization, scalarization is inherently incapable of full exploration, especially for those Pareto optimal solutions that strike the balanced trade-offs between multiple tasks. More concretely, when the model is under-parametrized, we reveal a multi-surface structure of the feasible region and identify necessary and sufficient conditions for full exploration. This leads to the conclusion that scalarization is in general incapable of tracing out the Pareto front. Our theoretical results provide a more intuitive explanation of why scalarization fails. I will conclude the talk by briefly discussing the extension of our results to general nonlinear neural networks and our recent work on using online Chebyshev scalarization to controllably steer the search of Pareto optimal solutions.
+
+References:
+
+1. Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective, NeurIPS’ 23
+
+2. Robust Multi-Task Learning with Excess Risks, ICML’ 24
+
+3. LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch, NeurIPS’ 24 D&B Track
+
+4. Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization, arXiv: 2410.21764
+
+== Bio
+
+Dr. Han Zhao is an Assistant Professor of Computer Science and, by courtesy, of Electric and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). Dr. Zhao earned his Ph.D. degree in machine learning from Carnegie Mellon University. His research interest is centered around trustworthy machine learning, with a focus on algorithmic fairness, robust generalization under distribution shifts and model interpretability. He has been named a Kavli Fellow of the National Academy of Sciences and has been selected for the AAAI New Faculty Highlights program. His research has been recognized through a Google Research Scholar Award, an Amazon Research Award, and a Meta Research Award.

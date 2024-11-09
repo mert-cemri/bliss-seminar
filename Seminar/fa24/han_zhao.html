@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Han Zhao (UIUC)</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="//bliss.eecs.berkeley.edu/Seminar/index.html" class="current">Seminar&nbsp;home</a></div>
+<div class="menu-item"><a href="//bliss.eecs.berkeley.edu/Seminar/past.html">Past&nbsp;Talks</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Han Zhao (UIUC)</h1>
+</div>
+<p>1:00pm - 2:00pm PT Friday, November 15, 2024</p>
+<h2>Title and Abstract</h2>
+<p><b>Revisiting Scalarization in Multi-Task Learning</b><br />
+<br /></p>
+<p>Linear scalarization, i.e., combining all loss functions by a weighted sum, has been the default choice in the literature of multi-task learning (MTL) since its inception. In recent years, there has been a surge of interest in developing Specialized Multi-Task Optimizers (SMTOs) that treat MTL as a multi-objective optimization problem. However, it remains open whether there is a fundamental advantage of SMTOs over scalarization. In fact, heated debates exist in the community comparing these two types of algorithms, mostly from an empirical perspective. In this talk, I will revisit scalarization from a theoretical perspective. I will be focusing on linear MTL models and studying whether scalarization is capable of fully exploring the Pareto front. Our findings reveal that, in contrast to recent works that claimed empirical advantages of scalarization, scalarization is inherently incapable of full exploration, especially for those Pareto optimal solutions that strike the balanced trade-offs between multiple tasks. More concretely, when the model is under-parametrized, we reveal a multi-surface structure of the feasible region and identify necessary and sufficient conditions for full exploration. This leads to the conclusion that scalarization is in general incapable of tracing out the Pareto front. Our theoretical results provide a more intuitive explanation of why scalarization fails. I will conclude the talk by briefly discussing the extension of our results to general nonlinear neural networks and our recent work on using online Chebyshev scalarization to controllably steer the search of Pareto optimal solutions.</p>
+<p>References:</p>
+<p>1. Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective, NeurIPS’ 23</p>
+<p>2. Robust Multi-Task Learning with Excess Risks, ICML’ 24</p>
+<p>3. LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch, NeurIPS’ 24 D&amp;B Track</p>
+<p>4. Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization, arXiv: 2410.21764</p>
+<h2>Bio</h2>
+<p>Dr. Han Zhao is an Assistant Professor of Computer Science and, by courtesy, of Electric and Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). Dr. Zhao earned his Ph.D. degree in machine learning from Carnegie Mellon University. His research interest is centered around trustworthy machine learning, with a focus on algorithmic fairness, robust generalization under distribution shifts and model interpretability. He has been named a Kavli Fellow of the National Academy of Sciences and has been selected for the AAAI New Faculty Highlights program. His research has been recognized through a Google Research Scholar Award, an Amazon Research Award, and a Meta Research Award</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2024-11-09 10:40:39 UTC, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
