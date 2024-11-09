@@ -1,6 +1,6 @@
 # BLISS website and seminar
 
-Contains current BLISS website hosted on bliss.eecs.berkeley.edu
+Contains current BLISS website hosted on http://bliss.eecs.berkeley.edu
 
 The old website has a redirect to these pages.
 
